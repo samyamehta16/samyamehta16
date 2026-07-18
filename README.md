@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samya!</h1>
 <h3 align="center">🚀 Turning Ideas into Code | AI-ML Enthusiast | Full-Stack Developer in Progress</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyamehta16" alt="samyamehta16" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
